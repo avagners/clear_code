@@ -1,4 +1,4 @@
-6.1 
+6.1  
 result - nodes_equal_value  
 // список узлов связного списка, которые равны определенному значению
 
@@ -14,7 +14,7 @@ price - product_price
 result_list - list_nodes_equal_value  
 // список узлов связного списка, которые равны определенному значению
 
-6.2
+6.2  
 hash  
 // хэш строки
 
@@ -27,7 +27,7 @@ request
 encoding  
 // кодирование
 
-6.3
+6.3  
 password_letters  
 // буквы для создание пароля - функция generate_password()
 
@@ -37,7 +37,7 @@ password_symbols
 password_numbers  
 // цифры для создания пароля - функция generate_password()
 
-6.4
+6.4  
 с - symbol_of_string  
 // символ строки
 

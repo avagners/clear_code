@@ -1,0 +1,12 @@
+result - nodes_equal_value  
+max_value - value_max  
+subjects - email_subjects  
+ids - email_ids
+data - email_data  
+files - customer_reports  
+msg - message  
+sheet - sheet_num  
+distance - distance_km 
+list_1 - first_items_list  
+code - customer_code  
+acc_sys - account_system

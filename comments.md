@@ -98,7 +98,7 @@ df_promo.rename(columns=lambda x: x.strip(), inplace=True)
 // добавлен комментарий, объясняющий наличие строки кода
 
 ...
-# переводим в подходящий формат скидки для дальньейшего сравнения
+# переводим в подходящий формат скидки для дальнейшего сравнения
 df_promo['action_disc'] = df_promo['action_disc'].apply(self.__convert_discont)
 ...
 ```
